@@ -115,4 +115,5 @@ $(document).ready(function() {
     		$("#bulb1").attr("src", "img/bulboff.gif");
     	}
       });
+      $('.carousel').carousel();
 });

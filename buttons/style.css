@@ -31,7 +31,7 @@
 }
 
 p{
-	font-family: dosis;
+	font-family: 'Supermercado One', cursive;
 	font-size: 20px;
 	margin-left: 10px;
 	width:240px;
@@ -58,3 +58,18 @@ p{
 .selected{
     background-color: #F07D00;
 }
+
+#dennis{
+    background-color: #2222BB;
+    border-radius: 20px;
+    font-family: 'Supermercado One', cursive;
+    font-weight: bolder;
+    font-size: medium;
+    padding: 20px;
+    width: 300px;
+}
+
+.system{
+    display: none;
+}
+

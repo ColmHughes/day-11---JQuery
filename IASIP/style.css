@@ -1,0 +1,15 @@
+#dennis{
+    background-color: #2222BB;
+    border-radius: 20px;
+    font-family: 'Supermercado One', cursive;
+    font-weight: bolder;
+    font-size: medium;
+    padding: 20px;
+    width: 300px;
+}
+.dennis{
+    font-size: large;
+}
+.system{
+    display: none;
+}
